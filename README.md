@@ -176,5 +176,3 @@ with a different test.txt.
 |-- module2_assignment.rb
 `-- solution.rb
 ```
-
-#### Updated: 2015-10-10a
